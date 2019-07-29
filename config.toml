@@ -1,0 +1,4 @@
+baseURL ="portlandrocketry.github.io"
+languageCode ="en-us"
+title = "Home | Portland Rocketry"
+theme = "hugo-tranquilpeak-theme"
